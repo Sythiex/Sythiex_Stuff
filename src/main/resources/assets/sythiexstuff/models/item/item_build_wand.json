@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "sythiexstuff:items/item_build_wand"
+    }
+}

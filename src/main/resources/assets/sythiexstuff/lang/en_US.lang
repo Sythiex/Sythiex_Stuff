@@ -1,0 +1,5 @@
+itemGroup.tab_sythiex_stuff=Sythiex's Stuff
+tile.block_infinite_water.name=Ender Water Well
+tile.block_blazing_lantern.name=Blazing Lantern
+item.item_build_wand.name=Creative Build Wand
+msg.buildwandreset.txt=Coordinates cleared
